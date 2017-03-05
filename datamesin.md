@@ -1,9 +1,9 @@
 						## INVENTARIS MESIN BLANKON
   
     
-|  &nbsp; &nbsp; &nbsp;  |  &nbsp;  &nbsp; **allyne.boi**  &nbsp;  &nbsp; |   &nbsp;  &nbsp;  &nbsp; **rani.boi** &nbsp;  &nbsp; &nbsp;  |  &nbsp; &nbsp; **marya.boi** &nbsp; &nbsp; <br> &nbsp; Pensiun  &nbsp;  |   &nbsp; &nbsp; **waljinah.boi** &nbsp;  &nbsp;  |   &nbsp; &nbsp;  **yeyen.boi**  &nbsp;  &nbsp;  |   &nbsp; &nbsp; **waw.boi**  &nbsp;  &nbsp; |  &nbsp; &nbsp; **cahyono.bin** &nbsp;  &nbsp; |  
-|--------|---------|-----------------|----------|------|----------------|-------------|----------------------|  
-|**processor**  |  Intel (R) Xeon (R) <br> CPU E5606  <br> @2.13 GHz <br> 4 Core | Intel (R) <br> Core (TM) i3 <br> CPU 540 <br> @3.07 GHz <br> 2 Core  | Intel (R) Xeon (R) <br> CPU 5160 <br> @3.00 GHz <br> 2 Core | Intel (R) Atom (TM) <br> CPU D525 <br> @1.80 GHz <br> 2 Core  | Intel (R)  <br> Core(TM) 2 Duo <br> CPU 4300 <br> @1.80 GHz <br> 2 Core |  Raspberry Pi <br> type B <br> ARM 11 <br> @700 MHz  |  Intel <br> 8 Core  |  
+|  &nbsp; &nbsp; &nbsp;  |  &nbsp;  &nbsp; **allyne.boi**  &nbsp;  &nbsp; |   &nbsp;  &nbsp;  &nbsp; **rani.boi** &nbsp;  &nbsp; &nbsp;  |  &nbsp; &nbsp; **marya.boi** &nbsp; &nbsp; <br> &nbsp; Pensiun  &nbsp;  | **waljinah.boi** | &nbsp; **yeyen.boi** &nbsp; Pensiun |  &nbsp; &nbsp; **waw.boi**  &nbsp;  &nbsp; | &nbsp; **cahyono.bin** &nbsp; Pensiun |  
+|---------------|---------------|-----------------|------------------|----------------|-------------------|---------------|----------------------|    
+|**processor**  |  Intel (R) Xeon (R ) <br> CPU E5606  <br> @2.13 GHz <br> 4 Core | Intel (R) Core (TM) i3 <br> CPU 540 <br> @3.07 GHz <br> 2 Core  | Intel (R) Xeon (R) <br> CPU 5160 <br> @3.00 GHz <br> 2 Core | Intel (R) Atom (TM) <br> CPU D525 <br> @1.80 GHz <br> 2 Core  | Intel (R) Core(TM) 2 Duo <br> CPU 4300 <br> @1.80 GHz <br> 2 Core |  Raspberry Pi <br> type B <br> ARM 11 <br> @700 MHz  |  Intel <br> 8 Core  |  
 |     **OS**  |   | | |   |  |                   |  
 |    **RAM**  | 6GB  | 4GB | 4GB  | 4GB  | 6GB  | 256MB  | 6GB               |  
 |   **DISK**  |1 TB <br> 2 TB <br> 3 TB | 250 GB <br> 500 GB <br> 1 TB | 160 GB | 32 GB   | 320 GB <br> 320 GB |   |     |  
