@@ -20,3 +20,6 @@
 |  | -Menjalankan kvm yang digunakan  |      |  |   |    |  |                   |
 |  | untuk mengoperasikan |  |  |    |   |  |                   |
 |  | pendekar.blankon.in |   |     |     |    
+	
+	
+// This is my change
